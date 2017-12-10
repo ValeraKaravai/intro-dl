@@ -1,0 +1,13 @@
+# idea files
+.idea/*
+src/__pycache__/
+
+# Jupyter Notebook checkpoints folder
+.ipynb_checkpoints/
+
+# OSX general
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
